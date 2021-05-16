@@ -1,6 +1,6 @@
 # Denon AVR-X1300W
 
-Here is the (link)[https://www.manua.ls/denon/avr-x1300w/manual] of the manual. 
+Here is the [link](https://www.manua.ls/denon/avr-x1300w/manual) of the manual. 
 
 ## pairing up with your iPhones, androids and so forth with bluetooth
 Use a controller of DENON.
