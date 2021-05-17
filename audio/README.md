@@ -7,4 +7,5 @@ Use a controller of DENON.
 
 1. Press Bluetooth
 2. Press OPTION and then ENTER. On the device it should say pairing...
-3. Search Bluetooth device on your device and DENON AVR-X1300W should appear. Enter pair.
+3. Search Bluetooth device on your device and DENON AVR-X1300W should appear. Press ENTER on the controller.
+4. Enter pair on your device
