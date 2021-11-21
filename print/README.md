@@ -1,6 +1,6 @@
 # Canon F3320 printer
 
-Here is the [link](https://www.manua.ls/denon/avr-x1300w/manual) of the manual. 
+Here is the [link](https://cweb.canon.jp/cgi-bin/download/select-os.cgi) of the driver. Choose your OS, complete download and install the driver.
 
 # what you need
 
