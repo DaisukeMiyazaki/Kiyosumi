@@ -1,5 +1,3 @@
-[home](../)
-
 # Canon F3320 printer
 
 Here is the [link](https://cweb.canon.jp/e-support/software/) of the driver. Choose imageRUNNER ADVANCE, iR-ADV C3320F, your OS, complete download and install the driver.
